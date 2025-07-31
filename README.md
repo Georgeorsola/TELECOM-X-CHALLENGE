@@ -78,6 +78,6 @@ jupyter notebook notebooks/TelecomX_LATAM.ipynb
 
 ⸻
 
-Autor: Equipo de Data Analytics, Telecom X
+Autor: Jorge Ignacio Orsola Hernández
 
 Fecha: Julio 2025
